@@ -1,11 +1,12 @@
-# Purpose of the application
+# Instruções para iniciar a aplicação
 
-To create CRUD application in React by using redux toolkit, JSON server, typescript, react router, toastify and axios.
-This application gives much more idea about the live applications and how to setup any react application.
+Um catálogo de livro usando React, Redux, JSON Server, TypeScript, React Router, Toastyfy, Axios e React-Bootstrap
 
-# Steps to run
 
-This application is using JSON server fake backend api.
+
+# Passos para iniciar a aplicação
+
+Esta aplicação usa This application is using JSON server fake backend api.
 
 To run JSON server, first install the package
 
