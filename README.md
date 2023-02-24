@@ -18,8 +18,10 @@ Este comando irá iniciar o fake backed api na port 8000
 
 Talvez seja necessário executar o procedimento abaixo para permitir a execução do script do json-server no Windows. Execute o procedimento com permissão de administrador no console CMD.
 
-## `Set-ExecutionPolicy RemoteSigned`
-# `get-ExecutionPolicy`
+```
+Set-ExecutionPolicy RemoteSigned
+get-ExecutionPolicy
+```
 
 Se o retorno for "RemoteSigned" o json-server pode ser iniciado sem problema.
 
