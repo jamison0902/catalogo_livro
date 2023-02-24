@@ -2,8 +2,9 @@
 
 Um catálogo de livro usando React, Redux, JSON Server, TypeScript, React Router, Toastyfy, Axios e React-Bootstrap
 
+![alt text](Tela.png)
 
-# Passos para iniciar a aplicação
+# Passos 
 
 Esta aplicação usa This application is using JSON server fake backend api.
 
