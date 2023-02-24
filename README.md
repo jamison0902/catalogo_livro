@@ -6,67 +6,28 @@ Um catálogo de livro usando React, Redux, JSON Server, TypeScript, React Router
 
 # Passos 
 
-Esta aplicação usa This application is using JSON server fake backend api.
-
-To run JSON server, first install the package
+Esta aplicação uutiliza o JSON server como fake backend api. Instale o pacote primeiro com o seguinte comando:
 
 ## `npm install -g json-server`
 
-move to 'json-server' folder, and run below command
+navegue até o diretório 'json-server' e execute o seguinte comando:
 
 ## `json-server -p 8000 db.json`
 
-this command will start fake backed api at port 8000
+Este comando irá iniciar o fake backed api na port 8000
 
-Now, To start the application, first run below command from root folder
+Talvez seja necessário executar o procedimento abaixo para permitir a execução do script do json-server no Windows. Execute o procedimento com permissão de administrador no console CMD.
+
+## `- Set-ExecutionPolicy RemoteSigned
+- get-ExecutionPolicy`
+
+Se o retorno for "RemoteSigned" o json-server pode ser iniciado sem problema.
+
+Retorne ao diretório raiz e execute o seguinte comando:
 
 ## `npm install`
 
-Below command to run the application
+Após esse ultimo comando a aplicação poderá ser visualizada no endereço http://localhost:3000/
 
 ## `npm start`
-
-To watch the videos for this applications, visit the below links 
-1. React CRUD Application with Redux, JSON Server, router, axios - CRUD Demo
-https://youtu.be/9QQ3ntJzpa4
-
-2. React CRUD Application with Redux, JSON Server, router, axios-Initialize app and understand Redux
-https://youtu.be/uINpX4Nuzzo
-
-3. React CRUD Application with Redux, JSON Server, router, axios - Create Layout
-https://youtu.be/tVt5Um2Q4sc
-
-4. React CRUD Application with Redux, JSON Server, router, axios - Understand React router
-https://youtu.be/4viYSBPQkzw
-
-5. React CRUD Application with Redux, JSON Server, router, axios - Implement routing
-https://youtu.be/BXN_XdUZ02Y
-
-6. React CRUD Application with Redux, JSON Server, router, axios - User list
-https://youtu.be/Yvxs-XxsEpg
-
-7. React CRUD Application with Redux, JSON Server, router, axios - Setup JSON server
-https://youtu.be/DzofQSJXPpo
-
-8. React CRUD Application with Redux, JSON Server, router, axios - Get user list from API
-https://youtu.be/AzvSDVb999s
-
-9. React CRUD Application with Redux, JSON Server, router, axios - Create user form
-https://youtu.be/O_vjjLyAK6Q
-
-10. React CRUD Application with Redux, JSON Server, router, axios - Submit form data
-https://youtu.be/hKVimdD6Vqk
-
-11. React CRUD Application with Redux, JSON Server, router, axios - View user data
-https://youtu.be/KaNgbjg8Nxk
-
-12. React CRUD Application with Redux, JSON Server, router, axios - Delete user
-https://youtu.be/LuXZ5LqrFwQ
-
-13. React CRUD Application with Redux, JSON Server, router, axios - Implement edit user
-https://youtu.be/EEqGrvf0fFU
-
-14. React CRUD Application with Redux, JSON Server, router, axios - Toastify and Complete the app
-https://youtu.be/mr9UUvuVamA
-
 
