@@ -2,7 +2,7 @@
 
 Um catálogo de livro usando React, Redux, JSON Server, TypeScript, React Router, Toastyfy, Axios e React-Bootstrap
 
-(https://github.com/jamison0902/catalogo_livro/blob/main/tela.png)
+![alt text](tela.png)(https://github.com/jamison0902/catalogo_livro/blob/main/tela.png)
 
 # Passos para iniciar a aplicação
 
