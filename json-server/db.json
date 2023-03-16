@@ -1,0 +1,39 @@
+{
+  "livro": [
+    {
+      "titulo": "O Programador Pragmático",
+      "resumo": "Conteúdo de Programação e Desenvolvimento.",
+      "editora": "Bookman",
+      "autor": "Andrew Hunt, David Thomas",
+      "id": 2
+    },
+    {
+      "titulo": "Algoritmos e Lógica Da Programação ",
+      "resumo": "Livro sobre Programação",
+      "editora": "Cengage Learning",
+      "autor": "Marco  Souza , Marcelo Gomes",
+      "id": 3
+    },
+    {
+      "titulo": "O Conto Macabro",
+      "resumo": "Livro bizarro",
+      "editora": "Azul Caneta",
+      "autor": "Lampião",
+      "id": 4
+    },
+    {
+      "titulo": "A Fuga das Galinha",
+      "resumo": "Galinha doidas",
+      "editora": "Pena Suave",
+      "autor": "Galo Cantador",
+      "id": 5
+    },
+    {
+      "titulo": "O Leão Medroso",
+      "resumo": "O felino era gato",
+      "editora": "Bicho Solto 2",
+      "autor": "Jumento Celestino Celestial",
+      "id": 6
+    }
+  ]
+}
